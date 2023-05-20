@@ -1,2 +1,3 @@
 # erbannewpaper
-二班日报
+二班周报
+
