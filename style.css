@@ -1,0 +1,31 @@
+body {
+background-repeat:no-repeat;
+background-size:100% 100%;
+background-attachment: fixed;
+}
+a {
+text-decoration: none;
+}
+a:link {
+font-size: 18px;
+border: 1px solid #4169E1;
+padding: 5px;
+margin-left: 10px;
+background: #ccc;
+color: #000080;
+}
+a:visited {
+background: #AFEEEE;
+border: 1px solid #B0C4DE;
+color: 	#00008B;
+}
+a:hover {
+background: #9c6ae1;
+border: 1px solid #87CEFA;
+color: #0000CD;
+}
+a:active {
+background: #008B8B;
+border: 1px solid #5F9EA0;
+color: 	#6A5ACD;
+}
